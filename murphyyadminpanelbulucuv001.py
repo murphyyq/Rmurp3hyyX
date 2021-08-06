@@ -11,7 +11,7 @@ from aiohttp.streams import AsyncStreamIterator
 print("""\33[91;1m  
 murphyy admin panel arayan araç versiyon 001                              
       """)
-target = input("/33[92;1mHEDEF URL'Yİ BURAYA GİR DOSTUM: /33[1;0m")
+target = input("\33[92;1mHEDEF URL'Yİ BURAYA GİR DOSTUM: \33[1;0m")
 print("")
 #Temel giriş filtresi
 target = target.replace('https://','')
