@@ -1,30 +1,30 @@
-# ADMIN-SAN
-**This is the official and only repository of the Admin-san project.**
+# murphyy panel v001
+**bu, murphyy panel (mpanel) projesinin resmi ve tek deposudur..**
 
-Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit) [@rabbit_fuzzy]
+Tarafından yazılmıştır: [Rmurp3hyyX](https://github.com/Rmurp3hyyX) [@Rmurp3hyyX]
 
-# Features
-Admin-san is an open-source Asynchronous Admin Panel Finder made with Python3
-its one of the fastest Admin Panel Finders out there
+# Özellikleri
+murphyy panel (mpanel), Python3 ile yapılmış açık kaynaklı bir Asenkron Yönetici Paneli Bulucudur.
+oradaki en hızlı Yönetici Paneli Bulucularından biri
 
 
-##### PREREQUISITES
+##### ÖNKOŞULLAR
 * Python 3.x 
 * pip3
 * git
 
-##### PYTHON 3 PREREQUISITES
+##### PYTHON 3 ÖN KOŞULLARI
 * aiohttp
 * asyncio
 
-# Installation
-## Resolve dependencies
+# Kurulum
+## Bağımlılıkları çöz
 *Ubuntu/Debian System*
 ```
 $ sudo apt-get --force-yes -y install git python3 python3-pip
 ```
 
-## Getting and Running Admin-san
+## murphyy panel (mpanel)'ı Alma ve Çalıştırma
 ```sh
 $ git clone https://github.com/WeebSec/admin-san.git
 $ cd admin-san
@@ -33,7 +33,7 @@ $ python3 admin-san.py
 ```
 
 ### ScreenShot
-![shot](https://github.com/WeebSec/admin-san/blob/master/imgs/ss.png)
+![shot](https://media.giphy.com/media/PlUORM05joQ1LGblRS/giphy.gif)
 
 
 
